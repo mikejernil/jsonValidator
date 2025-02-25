@@ -41,6 +41,6 @@ jsonfile.readFile(filepath, function (err, data) {
   console.log("\nThe following errors were found in given data:");
 
   validateResult.errors.map((err, index) =>
-    console.log(index + ":", err.stack)
+    console.log(index + 1 + ":", err.stack)
   );
 });
