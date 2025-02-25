@@ -1,8 +1,12 @@
 # JSON Validator
 
-## NODEJS script that validates JSON data against a given JSON schema
+## NodeJS script that validates JSON data against a given JSON schema
 
 ### How to run
+
+### Prerequisites
+
+NodeJS & npm
 
 #### Install packages
 
