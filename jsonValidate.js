@@ -1,7 +1,6 @@
 /**
  * Validate JSON data against the schema
  */
-const fs = require("fs");
 const validate = require("jsonschema").validate;
 const jsonfile = require("jsonfile");
 
