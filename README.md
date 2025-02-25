@@ -4,7 +4,7 @@
 
 ### How to run
 
-### Prerequisites
+#### Prerequisites
 
 NodeJS & npm
 
